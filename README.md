@@ -1,4 +1,4 @@
-sharefont
+ShareFont
 =========
 
 This is the repository for ShareFont.
