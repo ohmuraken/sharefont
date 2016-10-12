@@ -1,6 +1,8 @@
-.out{
-    padding-bottom: 30px;
-}
+.out{ padding-bottom: 30px; }
+.btn1:hover { text-decoration: none; }
+.btn1:active { background: #9bc3de; }
+.btn2:hover { text-decoration: none; }
+.btn2:active { background: #9bc3de; }
 
 .btn1 {
   background: #9bc3de;
@@ -17,14 +19,6 @@
   font-size: 16px;
   padding: 8px 32px 8px 32px;
   text-decoration: none;
-}
-
-.btn1:hover {
-  text-decoration: none;
-}
-
-.btn1:active {
-      background: #9bc3de;
 }
 
 .btn2 {
@@ -45,34 +39,19 @@
   margin-bottom: 10px;
 }
 
-.btn2:hover {
-  text-decoration: none;
-}
-
-.btn2:active {
-      background: #9bc3de;
-}
 
 
 .button{
     padding-top: 12px;
     padding-bottom: 12px;
-
 }
 
 .button1{
     padding-right: 0px;
     padding-bottom:0px;
-
 }
 
-.button2{
-    padding-left: 0px;
-
-}
-
-
-
+.button2{ padding-left: 0px; }
 
 .btn_home {
   background: #9bc3de;
@@ -113,31 +92,17 @@
 
 }
 
-.button2{
-    padding-left: 0px;
+.button2{ padding-left: 0px; }
 
-}
-
-
-
-.how{
-  padding-top: 40px;
-}
+.how{ padding-top: 40px; }
 
 .buttonHome {
   padding-top: 35px;
   padding-bottom: 35px;
 }
 
-span.buttonH2{
-  margin-left: 30px;
-}
-
-a.btn_home {
-  padding: 20px;
-}
-
-
+span.buttonH2{ margin-left: 30px; }
+a.btn_home { padding: 20px; }
 
 img.bg {
   /* Set rules to fill background */
@@ -159,10 +124,7 @@ img.bg {
   margin-left: -512px; }
 }
 
-div#container {
-  position: relative; 
-}
-
+div#container { position: relative; }
 
 #footer {
   /*
@@ -206,21 +168,10 @@ div#container {
   */
 }
 
-#sharefont {
-    margin-bottom: 30px;
-}
-
-#sharefont .Box {
-    padding-top: 0px;
-}
-
-#sharefont .shareButton {
-    position: absolute;
-}
-
-#sharefont img {
-    cursor: pointer;
-}
+#sharefont { margin-bottom: 30px; }
+#sharefont .Box { padding-top: 0px; }
+#sharefont .shareButton { position: absolute; }
+#sharefont img { cursor: pointer; }
 
 #sharefont .letters {
     position: relative;
@@ -313,9 +264,6 @@ div#container {
     width: 336px;
     margin: 0 15px;
 }
-
-
-
 
 #sharefont .letters .shareButton .tweet iframe[src*="www.facebook.com/plugins/like.php"],
 .fb-like
